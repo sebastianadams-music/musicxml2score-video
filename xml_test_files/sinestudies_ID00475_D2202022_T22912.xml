@@ -1,0 +1,9216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN"
+"http://www.musicxml.org/dtds/partwise.dtd" >
+<score-partwise version="3.0">
+	<identification>
+		<encoding>
+			<software>bach for Max v0.8.1.4 beta</software>
+			<encoding-date>2022-02-20</encoding-date>
+		</encoding>
+	</identification>
+	<defaults>
+		<word-font font-family="Times New Roman" font-size="11" />
+	</defaults>
+	<part-list>
+		<score-part id="P1">
+			<part-name></part-name>
+			<score-instrument id="P1-I1">
+				<instrument-name>Grand Piano</instrument-name>
+			</score-instrument>
+		</score-part>
+	</part-list>
+	<part id="P1">
+		<measure number="1">
+			<attributes>
+				<divisions>4</divisions>
+				<key>
+					<fifths>0</fifths>
+					<mode>major</mode>
+				</key>
+				<time>
+					<beats>7</beats>
+					<beat-type>16</beat-type>
+				</time>
+				<clef number="1">
+					<sign>G</sign>
+					<line>2</line>
+				</clef>
+			</attributes>
+			<direction>
+				<direction-type>
+					<metronome>
+						<beat-unit>quarter</beat-unit>
+						<per-minute>160</per-minute>
+					</metronome>
+				</direction-type>
+				<offset sound="yes">0</offset>
+				<sound tempo="160.000000" />
+			</direction>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<f />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>0.500000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>-0.500000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-flat</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>-0.500000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>-0.500000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>-0.500000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>-0.500000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="2">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>5</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<pp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="3">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>3</beats>
+					<beat-type>8</beat-type>
+				</time>
+			</attributes>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-0.250000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="4">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>1</beats>
+					<beat-type>2</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="5">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>3</beats>
+					<beat-type>4</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<f />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0.500000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0.750000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="6">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>15</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>0.500000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<beam number="1">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<beam number="1">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>0.500000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<beam number="1">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>6</duration>
+				<tie type="stop" />
+				<type>quarter</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>6</duration>
+				<tie type="stop" />
+				<type>quarter</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>0.500000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>6</duration>
+				<tie type="stop" />
+				<type>quarter</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>0.500000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="7">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>15</beats>
+					<beat-type>8</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<pp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<accidental>sharp</accidental>
+				<beam number="1">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<tie type="stop" />
+				<type>quarter</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<tie type="stop" />
+				<type>quarter</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="8">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>1</beats>
+					<beat-type>2</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mf />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>natural</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="9">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>7</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<pp />
+					</dynamics>
+				</direction-type>
+				<direction-type>
+					<wedge relative-x="10" type="crescendo" />
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-0.250000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<wedge relative-x="-10" type="stop" />
+				</direction-type>
+				<direction-type>
+					<dynamics>
+						<mp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="10">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>5</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<pp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0.750000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="11">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>9</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mp />
+					</dynamics>
+				</direction-type>
+				<direction-type>
+					<wedge relative-x="10" type="diminuendo" />
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<wedge relative-x="-10" type="stop" />
+				</direction-type>
+				<direction-type>
+					<dynamics>
+						<pp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="12">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>7</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="13">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>35</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mf />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>6</duration>
+				<tie type="stop" />
+				<tie type="start" />
+				<type>quarter</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="stop" />
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<accidental>quarter-flat</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>sharp</accidental>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<dot />
+				<accidental>natural</accidental>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="stop" />
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">forward hook</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>unknown</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="14">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>31</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">forward hook</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mp />
+					</dynamics>
+				</direction-type>
+				<direction-type>
+					<wedge relative-x="10" type="diminuendo" />
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<accidental>quarter-flat</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>6</duration>
+				<tie type="stop" />
+				<tie type="start" />
+				<type>quarter</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="stop" />
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">forward hook</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<accidental>sharp</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">forward hook</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>flat</accidental>
+				<beam number="1">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<accidental>natural</accidental>
+				<beam number="1">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<beam number="1">begin</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<wedge relative-x="-10" type="stop" />
+				</direction-type>
+				<direction-type>
+					<dynamics>
+						<pp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="15">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>1</beats>
+					<beat-type>2</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<f />
+					</dynamics>
+				</direction-type>
+				<direction-type>
+					<wedge relative-x="10" type="diminuendo" />
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<wedge relative-x="-10" type="stop" />
+				</direction-type>
+				<direction-type>
+					<dynamics>
+						<mp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="16">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>11</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mf />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">forward hook</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="17">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>5</beats>
+					<beat-type>8</beat-type>
+				</time>
+			</attributes>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="18">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>9</beats>
+					<beat-type>4</beat-type>
+				</time>
+			</attributes>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0.750000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<accidental>unknown</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<type>half</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="19">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>9</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mf />
+					</dynamics>
+				</direction-type>
+				<direction-type>
+					<wedge relative-x="10" type="diminuendo" />
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0.500000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0.500000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<wedge relative-x="-10" type="stop" />
+				</direction-type>
+				<direction-type>
+					<dynamics>
+						<mp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="20">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>11</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<pp />
+					</dynamics>
+				</direction-type>
+				<direction-type>
+					<wedge relative-x="10" type="crescendo" />
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0.750000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-0.500000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-flat</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<wedge relative-x="-10" type="stop" />
+				</direction-type>
+				<direction-type>
+					<dynamics>
+						<mp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-0.250000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="21">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>13</beats>
+					<beat-type>8</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<pp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<type>half</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<type>half</type>
+				<accidental>sharp</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<accidental>natural</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="22">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>3</beats>
+					<beat-type>4</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>sharp</accidental>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">forward hook</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<dot />
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="stop" />
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mf />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="23">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>1</beats>
+					<beat-type>2</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<pp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-0.500000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="24">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>5</beats>
+					<beat-type>8</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-0.250000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="25">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>3</beats>
+					<beat-type>4</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<pp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="26">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>31</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mf />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">forward hook</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">forward hook</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">forward hook</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<beam number="1">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<beam number="1">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<accidental>flat</accidental>
+				<beam number="1">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<tie type="stop" />
+				<type>quarter</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<tie type="stop" />
+				<type>quarter</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<tie type="stop" />
+				<type>quarter</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>natural</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<accidental>quarter-sharp</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<type>half</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<type>half</type>
+				<accidental>flat</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<type>half</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="27">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>41</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mf />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<dot />
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="stop" />
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">forward hook</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>flat</accidental>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<accidental>natural</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<tie type="stop" />
+				<tie type="start" />
+				<type>quarter</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="stop" />
+				<type>16th</type>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<accidental>flat</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="stop" />
+				<type>16th</type>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="28">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>5</beats>
+					<beat-type>8</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-flat</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="29">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>17</beats>
+					<beat-type>8</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<f />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>sharp</accidental>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0.750000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<accidental>unknown</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>8</duration>
+				<type>half</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-0.250000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>unknown</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>sharp</accidental>
+				<beam number="1">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>sharp</accidental>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<accidental>quarter-sharp</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>unknown</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="30">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>9</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mf />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-0.250000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0.750000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="31">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>5</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<f />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="32">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>5</beats>
+					<beat-type>8</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mf />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="33">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>1</beats>
+					<beat-type>2</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<pp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>natural</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>natural</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="34">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>9</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<pp />
+					</dynamics>
+				</direction-type>
+				<direction-type>
+					<wedge relative-x="10" type="crescendo" />
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<wedge relative-x="-10" type="stop" />
+				</direction-type>
+				<direction-type>
+					<dynamics>
+						<mp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="35">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>11</beats>
+					<beat-type>8</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<pp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>-0.250000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<accidental>unknown</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-0.250000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="stop" />
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">forward hook</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>flat</accidental>
+				<beam number="1">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<beam number="1">begin</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="36">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>11</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<dot />
+				<accidental>flat</accidental>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="stop" />
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">forward hook</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>flat</accidental>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>flat</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="37">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>7</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mf />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-flat</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="38">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>1</beats>
+					<beat-type>2</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<pp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>natural</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>natural</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="39">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>3</beats>
+					<beat-type>8</beat-type>
+				</time>
+			</attributes>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="40">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>5</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mf />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0.750000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="41">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>5</beats>
+					<beat-type>8</beat-type>
+				</time>
+			</attributes>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-0.250000</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0.500000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="42">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>13</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mp />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>-0.500000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>quarter-flat</accidental>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mf />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mf />
+					</dynamics>
+				</direction-type>
+				<direction-type>
+					<wedge relative-x="10" type="crescendo" />
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>sharp</accidental>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<wedge relative-x="-10" type="stop" />
+				</direction-type>
+				<direction-type>
+					<dynamics>
+						<f />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-0.250000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<beam number="1">begin</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="43">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>5</beats>
+					<beat-type>2</beat-type>
+				</time>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics>
+						<mf />
+					</dynamics>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>sharp</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<accidental>quarter-sharp</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<accidental>quarter-flat</accidental>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<accidental>unknown</accidental>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<tie type="stop" />
+				<tie type="start" />
+				<type>quarter</type>
+				<notations>
+					<tied type="stop" />
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<tie type="stop" />
+				<tie type="start" />
+				<type>quarter</type>
+				<notations>
+					<tied type="stop" />
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<tie type="stop" />
+				<tie type="start" />
+				<type>quarter</type>
+				<notations>
+					<tied type="stop" />
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<beam number="1">begin</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<beam number="1">begin</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<beam number="1">begin</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<type>half</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<type>half</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<type>half</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<type>quarter</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<type>half</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<type>half</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>8</duration>
+				<type>half</type>
+				<accidental>unknown</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+		</measure>
+		<measure number="44">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>35</beats>
+					<beat-type>16</beat-type>
+				</time>
+			</attributes>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<dot />
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<dot />
+				<accidental>sharp</accidental>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<dot />
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="stop" />
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">forward hook</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="stop" />
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">forward hook</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="stop" />
+				<type>16th</type>
+				<beam number="1">begin</beam>
+				<beam number="2">forward hook</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<accidental>quarter-sharp</accidental>
+				<beam number="1">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<beam number="1">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<beam number="1">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<tie type="stop" />
+				<type>quarter</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<tie type="stop" />
+				<type>quarter</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>6</duration>
+				<tie type="stop" />
+				<type>quarter</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<tie type="start" />
+				<type>quarter</type>
+				<dot />
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<tie type="start" />
+				<type>quarter</type>
+				<dot />
+				<accidental>quarter-flat</accidental>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>6</duration>
+				<tie type="start" />
+				<type>quarter</type>
+				<dot />
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>unknown</accidental>
+				<beam number="1">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<beam number="1">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<beam number="1">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="start" />
+				<type>eighth</type>
+				<beam number="1">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<beam number="1">begin</beam>
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<beam number="1">continue</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>B</step>
+					<alter>-0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<type>16th</type>
+				<beam number="1">continue</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<tie type="start" />
+				<type>16th</type>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<tied type="start" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>E</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>G</step>
+					<alter>0.500000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<tie type="stop" />
+				<type>eighth</type>
+				<dot />
+				<notations>
+					<tied type="stop" />
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0.750000</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<note>
+				<chord />
+				<pitch>
+					<step>C</step>
+					<alter>-0.250000</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<type>eighth</type>
+				<accidental>unknown</accidental>
+				<notations>
+					<articulations />
+				</notations>
+			</note>
+			<barline>
+				<bar-style>light-heavy</bar-style>
+			</barline>
+		</measure>
+	</part>
+</score-partwise>
