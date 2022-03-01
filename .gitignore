@@ -5,3 +5,4 @@ test.py
 .ly2vid
 concat_video_tests.py
 teststring
+lytmp/.DS_Store
