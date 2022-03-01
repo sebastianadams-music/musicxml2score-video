@@ -12,6 +12,7 @@ N.B. Mac only but you could adapt the command line elements and run it on Window
 4) MAKE SURE ALL DEPENDANCIES ARE INSTALLED (see below - including everything used in shell). 
 4b) You should run the script in a virtual environment if possible
 5) Then you're safe to run the script!
+musicxml2score-video.py
 """
 
 What you should know:
