@@ -54,7 +54,7 @@ def batch_prepend(dir):
 
                     # executes the command to create lilypond files in the terminal, with the silent flag and in the svg_output folder 
                     exec_ly = f'cd {SVGOUTPUT}; lilypond  -s -osvg_output {file}'
-                    print(f"file {file} conveted to ly")
+                    print(f"file {file} converted to ly")
                     os.system(exec_ly)
                     print("file done: {file}")
                     os.remove(file)
