@@ -2,11 +2,11 @@
 ### relies on pre-generated audio files and XML or LY.
 
 N.B. Mac only but you could adapt the command line elements and run it on Windows
-
-""" 
-FIRST THINGS FIRST:
+ 
+#FIRST THINGS FIRST:
 1) GENERATE YOUR SCORES AND EXPORT AS XML IN BACH (OR OTHER SOURCE METHOD)
 2) USE MUSESCORE BATCH EXPORT TO CONVERT TO MP3 [SAVED ME FIGURING OUT TWO HARD STEPS] [download here](https://musescore.org/en/project/batch-convert#:~:text=This%20Plugin%20for%20MuseScore%20will,creates%20PDF%20versions%20of%20all%20%22%20.)
+
     P.S. If you have a lot of XML files to do, download an auto-clicker so that you can leave that rendering. 
 3) Update XMLDIR and AUDIO_SOURCE_PATH
 4) MAKE SURE ALL DEPENDANCIES ARE INSTALLED (see below - including everything used in shell). 
@@ -35,7 +35,9 @@ What you should know:
 - Each video file is saved in the /vids directory. The concatenation of all these files is NOT done with Moviepy as it accesses files frame by frame, which is unnecessary as video files can be joined very quickly if they are in exactly the same format. The script again uses a shell command, this time in ffmpeg: find *.mp4 | sed 's:\ :\\\ :g'| sed 's/^/file /' > fl.txt; ffmpeg -f concat -i fl.txt -c copy shell_concat_output.mp4; rm fl.txt"
 - this command writes the names of all the .mp4 folder in the working directory (which has just been changed to the /vids folder) to a text fukem then runs the ffmpeg command "ffmpeg -f concat -i fl.txt -c copy shell_concat_output.mp4", then deletes the text file.
 
-Dependencies: os, xml.dom, moviepy, cairosvg, reportlab.graphics
-Shell dependencies: ffmpeg, lilypond/ly, musicxml2ly (which should be installed along with lilypond)
+#Dependencies: 
+os, xml.dom, moviepy, cairosvg, reportlab.graphics
+#Shell dependencies: 
+ffmpeg, lilypond/ly, musicxml2ly (which should be installed along with lilypond)
 
 N.B. if you want to start with LY files, just comment out the call to batch_xml2ly and put your .ly files in the LY_DIR folder (be warned: they will be deleted)
